@@ -1,0 +1,21 @@
+.wrapper{
+    padding:40rpx 30rpx;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .title{
+        font-weight: bold;
+        font-size: 40rpx;
+        padding:20rpx 0;
+    }
+    .tags{
+        padding:20rpx 0;
+    }
+    .sub2{
+        padding:20rpx 0;
+    }
+    Image{
+        width:70%;
+    }
+}

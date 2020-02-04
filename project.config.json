@@ -1,0 +1,47 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "books",
+	"description": "find books",
+	"appid": "wxa3594c173de922b1",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "pages/bookList/index",
+					"pathName": "pages/bookDetail/index",
+					"scene": null
+				}
+			]
+		}
+	}
+}

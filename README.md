@@ -29,7 +29,9 @@ npm run dev:weapp
 3. ##### sass+flex布局
 [sass](https://www.sass.hk/)作为一个专业级的css扩展语言，可以极大地提高css代码的编写效率。`flex`布局，建议阅读阮一峰的[flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
-最后，小程序比较粗糙，以后改进，附上小程序码：
+最后，小程序比较粗糙，以后改进，附上小程序码：  
+
+
 <img src='https://github.com/justforfunmy/books-weapp/blob/master/imgs/Find%E4%B9%A6.jpg' width='400px'>
 
 

@@ -32,7 +32,7 @@ npm run dev:weapp
 最后，小程序比较粗糙，以后改进，附上小程序码：  
 
 
-<img src='https://github.com/justforfunmy/books-weapp/blob/master/imgs/Find%E4%B9%A6.jpg' width='400px'>
+<img src='https://github.com/justforfunmy/books-weapp/blob/master/imgs/Find%E4%B9%A6.jpg' width='400px' align='center'>
 
 
 
